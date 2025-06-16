@@ -1,7 +1,7 @@
-🚀 Objective
+## 🚀 Objective
 Build a scalable backend to replicate Airbnb's core features, enabling smooth user and host experiences around listings, bookings, payments, and reviews.
 
-🏆 Project Goals
+## 🏆 Project Goals
 User Management: Secure registration, authentication, and profile handling.
 
 Property Management: Full CRUD support for property listings.
