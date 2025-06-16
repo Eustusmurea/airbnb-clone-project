@@ -1,18 +1,34 @@
-## 🚀 Objective
-Build a scalable backend to replicate Airbnb's core features, enabling smooth user and host experiences around listings, bookings, payments, and reviews.
+# 🏡 Airbnb Clone Project
 
-## 🏆 Project Goals
-User Management: Secure registration, authentication, and profile handling.
+## 📌 Project Overview
 
-Property Management: Full CRUD support for property listings.
+The Airbnb Clone project aims to replicate the core functionality of Airbnb using modern web development technologies. The backend system manages user accounts, property listings, bookings, payments, and reviews to provide a seamless platform for guests and hosts.
 
-Booking System: Mechanism to create, update, and manage reservations.
+---
 
-Payment Processing: Integration for handling booking payments.
+## 🎯 Project Goals
 
-Review System: Enable user reviews and property ratings.
+- **User Management:** Secure login, registration, and user profile management.
+- **Property Management:** Allow hosts to list and manage rental properties.
+- **Booking System:** Let users book properties with check-in and check-out handling.
+- **Payment Processing:** Enable secure and trackable payment transactions.
+- **Review System:** Users can review and rate properties after their stay.
+- **Optimized Performance:** Utilize caching and indexing for fast and scalable operations.
 
-Data Optimization: Ensure fast and efficient data access.
+---
+
+## 🧑‍🤝‍🧑 Team Roles
+
+| Role | Description |
+|------|-------------|
+| **Project Manager** | Oversees the project's progress, assigns tasks, ensures timelines and goals are met. |
+| **Backend Developer** | Builds and maintains the server-side logic, RESTful APIs, authentication, and business logic. |
+| **Database Administrator (DBA)** | Designs and maintains the database schema, ensures data integrity, indexing, and performance tuning. |
+| **DevOps Engineer** | Implements CI/CD pipelines, manages Docker environments, handles deployment workflows. |
+| **QA Engineer** | Tests the API endpoints and application features to ensure quality and bug-free deployment. |
+| **UI/UX Designer** | Designs user-friendly interfaces and ensures consistent user experience across the platform. |
+
+---
 
 ## 🚀 Technology Stack
 
